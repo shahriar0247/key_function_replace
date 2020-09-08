@@ -17,6 +17,5 @@ press 1 for 5
   <li>
     press 0 for +
     </li>
-  <li>
-  
+
   <strong> Note: if you hold shift you also do shift function like ctrl+alt+shift+1 will do shift+5 and that is % </strong>
