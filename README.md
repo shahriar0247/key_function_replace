@@ -11,17 +11,15 @@ press shift+caps_lock to start (and stop) <br> then
         press 1 for 5
     </li>
     <li>
-        press 2 for 6</li>
-
+        press 2 for 6
+    </li>
     <li>
-        press 3 for %</li>
-
+        press 3 for %
+    </li>
     <li>
         press 4 for ^</li>
-
     <li>
         press 7 for -</li>
-
     <li>
         press 8 for +</li>
     <li>
